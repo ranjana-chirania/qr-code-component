@@ -1,0 +1,38 @@
+body{
+  background-color:  hsl(212, 45%, 89%);
+
+}
+.parent{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 14px;
+  }
+img{
+  width:200px;
+  border-radius: 7px;
+  }
+
+.first-line{
+  color: black;
+
+  font-weight: bold;
+  font-family: arial;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 0;
+  
+}
+.second-line{
+  color: grey; 
+  font-family: arial;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-weight: 550;
+  margin-top :0;
+   
+}
